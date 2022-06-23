@@ -1,0 +1,41 @@
+[
+    {
+        "id":"1",
+        "data":"segunda", 
+        "horario":"8:30"
+    },
+    {
+        "id":"2",
+        "data":"terça", 
+        "horario":"8:30"
+    },
+    {
+        "id":"3",
+        "data":"terça", 
+        "horario":"17:30"
+    },
+    {
+        "id":"4",
+        "data":"quarta", 
+        "horario":"8:30"
+        
+    }
+    ,
+    {
+        "id":"5",
+        "data":"quinta", 
+        "horario":"8:30"
+    }
+    ,
+    {
+        "id":"6",
+        "data":"sexta", 
+        "horario":"8:30"
+    }
+    ,
+    {
+        "id":"7",
+        "data":"sabado", 
+        "horario":"16:20"
+    }
+]
